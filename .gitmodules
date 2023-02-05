@@ -1,0 +1,3 @@
+[submodule "linux_pwm"]
+	path = linux_pwm
+	url = https://github.com/hu-submodule-1/linux_pwm.git
